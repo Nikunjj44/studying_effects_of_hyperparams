@@ -50,7 +50,7 @@ The experimental study can further be extended by exploring additional hyperpara
 ## Academic Context
 Completed during my Graduate studies at **Nanyang Technological University (NTU), Singapore**.
 
-* **Course:** AI6103 - Deep Learning & Applications
+* **Course:** Deep Learning & Applications
 * **Semester:** AY 2025/2026, Semester 2
 
 ## Usage
